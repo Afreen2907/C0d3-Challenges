@@ -1,0 +1,26 @@
+{
+    "name": "C0d3-Challenges",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "selenium-webdriver": "^4.1.2"
+    },
+    "devDependencies": {
+        "jest": "^28.1.0"
+    },
+    "scripts": {
+        "test": "jest --verbose"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Afreen2907/C0d3-Challenges.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Afreen2907/C0d3-Challenges/issues"
+    },
+    "homepage": "https://github.com/Afreen2907/C0d3-Challenges#readme"
+}
